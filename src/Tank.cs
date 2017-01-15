@@ -9,7 +9,7 @@ public class Tank
 	}
 	
 
-	public Drive()
+	public void Drive()
 	{
 		
 	}
