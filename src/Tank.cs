@@ -11,10 +11,15 @@ public class Tank
 
 	public void Drive()
 	{
-		
+		_Drive();
 	}
 	
 	public string ToString()
+	{
+		
+	}
+	
+	private void _Drive()
 	{
 		
 	}
