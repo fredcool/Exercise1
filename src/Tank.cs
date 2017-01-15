@@ -21,6 +21,6 @@ public class Tank
 	
 	private void _Drive()
 	{
-		
+		bool hasWheels = true;
 	}
 }
