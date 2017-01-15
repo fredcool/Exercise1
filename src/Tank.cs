@@ -6,4 +6,9 @@ public class Tank
 	{
 		
 	}
+	
+	public Drive()
+	{
+		
+	}
 }
